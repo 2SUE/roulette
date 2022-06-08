@@ -1,4 +1,4 @@
-### Roulette
+### Roulette Preview
 ![img](https://blog.kakaocdn.net/dn/d9TQFJ/btrEcy6ivCR/j6Gbv3sBIAJGlVKw1wj1H0/img.gif)
 
 ### Frontend Stack
@@ -10,3 +10,6 @@
 
 ![PHP](https://img.shields.io/badge/php-%23ab8bdc.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-%2300f.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
+
+### DB
+![img](https://blog.kakaocdn.net/dn/bNQ7F1/btrEji2i7XJ/jVemAJBL4MOnltS5PhbAok/img.png)
